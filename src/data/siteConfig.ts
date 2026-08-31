@@ -25,7 +25,7 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "Alexander Vane",
+  name: "Amri Tumanggor",
   pronouns: "he/him",
   role: "Senior Software Engineer & Product Architect",
   location: "Jakarta, Indonesia",
